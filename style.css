@@ -1,0 +1,65 @@
+
+.background{
+    background-image: url(images/algorithm1.jpg);
+    opacity: .2;
+    width: 100%;
+    height: 590px;
+    background-size: cover;
+    
+}
+.title{
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -500px;
+}
+.arabicTitle{
+    color: rgb(9, 47, 97);
+    text-align: center;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-size: 100px;
+
+}
+.arabicDir{
+direction: rtl;
+}
+
+.titles2{
+    color: darkred;
+font-size: 100 px;}
+
+.ulAttribute {
+    float: right;
+    border: 1px solid black;
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 160px;
+    right: 0px;
+    height: 400px;
+    
+}
+
+.imagesSize{
+    width: 160px;
+    height: 160px;
+}
+
+ul li {
+    list-style-type: none;
+}
+.navBar{
+    top: 30px;
+    right: 0px;
+    float: right;
+    display: flex;
+    position: absolute;
+    
+}
+
+.titlesAtt{
+    direction: rtl;
+    font-size: 70px;
+
+}
